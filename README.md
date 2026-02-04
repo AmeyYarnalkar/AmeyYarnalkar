@@ -1,29 +1,60 @@
-# Hi, I'm Amey! 👋
+# Hi, I'm Amey 👋
 
-Welcome to my GitHub profile! I'm a passionate software developer with a focus on full-stack development, cloud computing, and AI integration. I'm excited to be constantly learning and growing as a developer, and I believe in using technology to create innovative solutions that can improve the world. 🚀
+I’m a software engineer in training with a **strong focus on problem-solving, 
+machine learning fundamentals, and system design**.
 
-## About Me
+Right now, I’m deliberately narrowing my focus — building depth instead of 
+chasing breadth. My goal is to become a high-impact engineer who understands 
+**how things work under the hood**, not just how to use tools.
 
-- 👨‍💻 I'm skilled in **JavaScript**, **React**, **Node.js**, and the **MERN stack**.
-- 💻 I have experience working with **Next.js**, **MySQL**, **SQL**, **NoSQL**, **Prisma**, and **AI** integrations.
-- 🌍 I enjoy building user-friendly websites that combine creativity with functionality.
-- 💡 I'm passionate about **cloud technology**, **networking**, and **Linux**.
-- 📚 I enjoy getting lost in books, exploring new places, and writing creative stories.
-- 🎙️ I’m currently working on a podcast focused on **productivity**, **psychology**, **technology**, and their intersection.
+---
 
-## Projects & Interests
+## What I’m Focused On Right Now
 
-Here are some of the things I’m working on:
+- 🧠 **Data Structures & Algorithms (Java)**  
+  Deep problem-solving, pattern recognition, and clean implementations  
+  (arrays, strings, trees, DP, graphs — with explanations, not memorization)
 
-- **MERN Stack Projects**: Full-stack web applications involving authentication, Q&A platforms, feedback systems, and SaaS solutions.
-- **Rootsense**: A Node.js package I'm developing to provide OS-related data, ticket management, multi-channel notifications, and predictive analysis.
-- **Notion-to-Medium Extension**: A browser extension that converts Notion pages into Medium articles with one click.
-- **AI Solutions**: Leveraging AI to enhance my projects and explore innovative applications of technology.
+- 🤖 **Machine Learning (Foundations → Applied)**  
+  Linear algebra intuition, probability, optimization, and ML algorithms  
+  implemented from scratch before using libraries
 
-## Current Learning
+- 🏗️ **System Design (LLD + HLD)**  
+  Scalable backend systems, trade-offs, databases, caching, networking, and APIs
 
-- **Cloud Computing**: Working on gaining deeper expertise.
+---
 
-## Let's Connect
+## What You’ll Find on This GitHub
 
-I love collaborating with others and exchanging ideas. Feel free to reach out to me for any opportunities or just to chat about tech, innovation, and more!
+- 📂 **DSA repositories** with:
+  - Clear intuition
+  - Edge cases
+  - Time & space complexity
+  - Pattern-based organization
+
+- 📓 **Technical notes**:
+  - DSA patterns
+  - ML math intuition
+  - Design concepts explained simply
+
+- 🧪 **ML experiments & notebooks**:
+  - Algorithms from scratch
+  - NumPy / math-driven implementations
+  - Small, focused experiments (no fluff projects)
+
+> This GitHub reflects **active learning and real thinking**, not polished hype.
+
+---
+
+## Current Goal
+
+Build strong fundamentals so that when I ship ML,
+they are:
+- explainable
+- scalable
+- and technically sound
+
+---
+
+If you’re reviewing this profile, you’re seeing **progress in motion**, 
+not a finished product — and that’s intentional.
